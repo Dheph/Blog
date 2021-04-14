@@ -23,7 +23,7 @@ const PostPreview = ({
 }: Props) => {
   return (
     <div>
-      <div className="mb-5">
+      <div className="mb-4">
         <CoverImage slug={slug} title={title} src={coverImage} />
       </div>
       <h3 className="text-3xl mb-3 leading-snug">
@@ -31,10 +31,10 @@ const PostPreview = ({
           <a className="hover:underline">{title}</a>
         </Link>
       </h3>
-      <div className="text-lg mb-4">
+      <div className="text-lg mb-3">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <p className="text-lg leading-relaxed mb-3">{excerpt}</p>
       <Avatar name={author.name} picture={author.picture} />
     </div>
   )
