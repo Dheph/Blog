@@ -3,7 +3,7 @@ title: 'Arquitetura em camadas, uma abordagem simplificada'
 
 excerpt: 'Na sua opinião o que seria mais fácil na hora de desenvolver um sistema?'
 
-coverImage: '/assets/blog/Redes/network-transmission.jpg'
+coverImage: '/assets/blog/arc/arquitetura.jpg'
 date: '2020-04-14T02:35:07.322Z'
 author:
   name: Dheph
