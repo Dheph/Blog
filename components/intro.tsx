@@ -1,5 +1,4 @@
 import Author from '../types/author';
-import Avatar from './avatar';
 
 type Props = {
   author:Author
