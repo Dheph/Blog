@@ -2,7 +2,7 @@
 title: 'Um pouquinho sobre docker'
 excerpt: 'Docker é uma ferramenta que se apoia em recursos existentes no kernel (inicialmente Linux), para isolar a execução de processos.'
 coverImage: '/assets/blog/dockers/docker-img.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2021-03-16T05:35:07.322Z'
 author:
   name: Dheph
   picture: '/assets/blog/authors/dheph.jpeg'

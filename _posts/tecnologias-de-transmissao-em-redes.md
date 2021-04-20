@@ -4,7 +4,7 @@ title: 'Tecnologias de transmissão em redes'
 excerpt: 'Como é o funcionamento físico da rede? O que são as tecnologias de transmissão?Escala, broadcasting, multicasting e unicasting.'
 
 coverImage: '/assets/blog/Redes/network-transmission.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2021-03-16T05:35:07.322Z'
 author:
   name: Dheph
   picture: '/assets/blog/authors/dheph.jpeg'

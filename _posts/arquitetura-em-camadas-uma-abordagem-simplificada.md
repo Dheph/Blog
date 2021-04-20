@@ -4,7 +4,7 @@ title: 'Arquitetura em camadas, uma abordagem simplificada'
 excerpt: 'Na sua opinião o que seria mais fácil na hora de desenvolver um sistema?'
 
 coverImage: '/assets/blog/arc/arquitetura.jpg'
-date: '2020-04-14T02:35:07.322Z'
+date: '2021-04-14T02:35:07.322Z'
 author:
   name: Dheph
   picture: '/assets/blog/authors/dheph.jpeg'
